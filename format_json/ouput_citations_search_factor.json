@@ -1,0 +1,31 @@
+{
+    "resumen": {
+        "total_factores": 3,
+        "total_bases_indicadas": 4,
+        "total_bases_consultadas_correctamente": 4,
+        "total_bases_consultadas_parcialmente": 0,
+        "total_bases_no_disponibles": 0,
+        "periodo_inicio": "2020-01-01",
+        "periodo_fin": "2025-12-31"
+    },
+    "resultados": [
+        {
+            "id_factor": 1,
+            "nombre_factor": "Compatibilidad",
+            "total_articulos": 12,
+            "estado": "valido"
+        },
+        {
+            "id_factor": 2,
+            "nombre_factor": "Fiabilidad",
+            "total_articulos": 18,
+            "estado": "valido"
+        },
+        {
+            "id_factor": 3,
+            "nombre_factor": "Seguridad",
+            "total_articulos": 9,
+            "estado": "valido"
+        }
+    ]
+}

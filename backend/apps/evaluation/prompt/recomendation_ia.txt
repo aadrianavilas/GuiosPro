@@ -1,0 +1,81 @@
+Actúa como un especialista en evaluación de adopción de software y analiza los resultados proporcionados siguiendo estrictamente la metodología de evaluación implementada en este sistema.
+
+### METODOLOGÍA DEL SISTEMA
+[METODOLOGÍA Y REGLAS DE EVALUACIÓN DEL SISTEMA]
+
+### RESULTADOS DE LA EVALUACIÓN
+
+**Recomendación obtenida:**
+[RECOMENDACIÓN FINAL]
+
+**Justificación de la recomendación:**
+[JUSTIFICACIÓN GENERADA POR EL SISTEMA]
+
+**Factores evaluados:**
+
+[LISTA DINÁMICA DE FACTORES, INCLUYENDO PARA CADA UNO:
+- Nombre del factor.
+- Dimensión a la que pertenece.
+- Clasificación: Fortaleza, Oportunidad, Debilidad o Amenaza.
+- Descripción del factor.
+- Resultado de su evaluación.
+- Resultados de sus subfactores, si corresponde.]
+
+### TAREA
+
+A partir de la metodología y los resultados proporcionados, desarrolla únicamente los siguientes apartados:
+
+**1. Interpretación de la recomendación**
+
+Explica qué significa la recomendación obtenida de acuerdo con los criterios y reglas de la metodología. Interpreta el resultado considerando las condiciones identificadas en la evaluación y sus implicaciones para la adopción del software en la organización.
+
+**2. Análisis de los factores**
+
+Identifica los factores más relevantes que influyen en la recomendación final. Explica su importancia considerando su clasificación, dimensión y resultados de evaluación. Describe cómo estos factores influyen en las condiciones de adopción del software, estableciendo relaciones entre ellos cuando los resultados lo permitan.
+
+### RESTRICCIONES
+
+- Respeta estrictamente la metodología proporcionada.
+- No utilices criterios externos ni metodologías diferentes.
+- No modifiques ni contradigas la recomendación generada por el sistema.
+- No inventes información ni atribuyas resultados que no estén presentes en la evaluación.
+- No consideres que una mayor cantidad de factores de una clasificación determina automáticamente la recomendación.
+- Fundamenta las interpretaciones en los resultados y criterios reales.
+- Evita repetir literalmente la información proporcionada; desarrolla un análisis explicativo.
+- Utiliza lenguaje técnico, claro y profesional.
+- Si los datos son insuficientes para realizar alguna interpretación, indícalo explícitamente.
+
+**FORMATO DE RESPUESTA**
+
+Presenta el análisis organizado en los dos apartados solicitados, con párrafos explicativos y sin agregar recomendaciones adicionales, planes de acción ni conclusiones independientes.
+
+
+### EXTENSIÓN Y FORMATO DE RESPUESTA
+
+- La respuesta completa no debe superar las 200 palabras.
+- **Interpretación de la recomendación:** máximo 80 palabras.
+- **Análisis de los factores:** máximo 120 palabras.
+- Prioriza los factores con mayor relevancia para la recomendación.
+- Utiliza párrafos breves, evitando explicaciones repetitivas.
+- No incluyas introducciones, conclusiones ni recomendaciones adicionales.
+- Mantén un lenguaje técnico, claro y directo.
+- No sacrifiques la precisión del análisis por cumplir la extensión. Si los datos son insuficientes, indícalo brevemente.
+
+### FORMATO DE RESPUESTA OBLIGATORIO
+
+Devuelve exclusivamente un objeto JSON válido, sin bloques Markdown, explicaciones adicionales ni texto fuera del JSON.
+
+La estructura debe ser exactamente la siguiente:
+
+{
+  "interpretacion": "Interpretación de la recomendación",
+  "analisis_factores": "Análisis de los factores más relevantes"
+}
+
+**Restricciones:**
+- Ambos campos deben contener cadenas de texto.
+- La respuesta completa no debe superar las 200 palabras.
+- La interpretación tendrá un máximo de 80 palabras.
+- El análisis de factores tendrá un máximo de 120 palabras.
+- No agregues propiedades adicionales.
+- Utiliza caracteres y formato compatibles con JSON válido.

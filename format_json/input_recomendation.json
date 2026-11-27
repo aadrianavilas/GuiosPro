@@ -1,0 +1,29 @@
+{
+    "metodologia": {
+        "nombre": "Metodología de evaluación de adopción de software",
+        "criterios": "...",
+        "reglas_evaluacion": "..."
+    },
+    "evaluacion": {
+        "recomendacion": "No se debe adoptar",
+        "justificacion": "...",
+        "factores": [
+            {
+                "nombre": "Factor 1",
+                "dimension": "Tecnológica",
+                "clasificacion": "Debilidad",
+                "descripcion": "...",
+                "resultado": "...",
+                "subfactores": []
+            },
+            {
+                "nombre": "Factor 2",
+                "dimension": "Organizacional",
+                "clasificacion": "Oportunidad",
+                "descripcion": "...",
+                "resultado": "...",
+                "subfactores": []
+            }
+        ]
+    }
+}

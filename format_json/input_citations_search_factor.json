@@ -1,0 +1,24 @@
+{
+    "periodo_inicio": "2020-01-01",
+    "periodo_fin": "2025-12-31",
+    "bases_datos": [
+        "Scopus",
+        "IEEE Xplore",
+        "Web of Science",
+        "ScienceDirect"
+    ],
+    "factores": [
+        {
+            "id_factor": 1,
+            "nombre": "Compatibilidad"
+        },
+        {
+            "id_factor": 2,
+            "nombre": "Fiabilidad"
+        },
+        {
+            "id_factor": 3,
+            "nombre": "Seguridad"
+        }
+    ]
+}

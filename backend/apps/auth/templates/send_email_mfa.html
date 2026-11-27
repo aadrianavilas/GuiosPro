@@ -1,0 +1,188 @@
+{% comment %}
+Plantilla de correo MFA - GuiosPro
+Variables de contexto:
+- user_name (str): Nombre del usuario
+- code (str): Código de verificación
+- expires_minutes (int): Minutos de validez
+- logo_url (str): URL del logo institucional
+- support_email (str): Correo de soporte
+- year (int): Año actual
+{% endcomment %}
+<!DOCTYPE html>
+<html lang="es" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="color-scheme" content="light">
+    <meta name="supported-color-schemes" content="light">
+    <title>Código de verificación — GuiosPro</title>
+    <!--[if mso]>
+    <noscript><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml></noscript>
+    <![endif]-->
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400..700;1,6..72,400..700&display=swap');
+
+        body, table, td, a {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+        table, td {
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+        img {
+            -ms-interpolation-mode: bicubic;
+            border: 0;
+            outline: none;
+            text-decoration: none;
+        }
+        body {
+            margin: 0 !important;
+            padding: 0 !important;
+            width: 100% !important;
+            background-color: #F6F5F3;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        }
+        .serif-title {
+            font-family: 'Newsreader', Georgia, 'Times New Roman', serif !important;
+        }
+        @media only screen and (max-width: 600px) {
+            .container {
+                width: 100% !important;
+                border-radius: 16px !important;
+            }
+            .px {
+                padding-left: 20px !important;
+                padding-right: 20px !important;
+            }
+            .digit-box {
+                width: 38px !important;
+                height: 50px !important;
+                font-size: 26px !important;
+                line-height: 50px !important;
+            }
+            .h1-title {
+                font-size: 24px !important;
+                line-height: 30px !important;
+            }
+        }
+    </style>
+</head>
+
+<body style="margin: 0; padding: 0; background-color: #F6F5F3;">
+    <!-- Preheader oculto para clientes de correo -->
+    <div style="display: none; font-size: 1px; line-height: 1px; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all;">
+        Tu código de verificación de GuiosPro es {{ code }}. Expira en {{ expires_minutes }} minutos.
+        &#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;
+    </div>
+
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: #F6F5F3;">
+        <tr>
+            <td align="center" style="padding: 40px 16px;">
+                <table role="presentation" class="container" width="560" cellpadding="0" cellspacing="0" border="0" style="width: 560px; max-width: 560px; background-color: #FFFFFF; border: 1px solid #D5ECEC; border-radius: 24px; overflow: hidden; box-shadow: 0 4px 16px rgba(36, 54, 66, 0.04);">
+                    
+                    <!-- Barra de marca superior institucional en Naranja suave #F7A35F -->
+                    <tr>
+                        <td height="8" bgcolor="#F7A35F" style="height: 8px; font-size: 0; line-height: 0; background-color: #F7A35F; background-image: linear-gradient(90deg, #F7A35F 0%, #FBB982 50%, #7FBFC1 100%);">
+                            &nbsp;
+                        </td>
+                    </tr>
+
+                    <!-- Contenido principal -->
+                    <tr>
+                        <td class="px" style="padding: 36px 40px 24px 40px;">
+                            
+                            <!-- Header de marca: Logo GuiosPro -->
+                            <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 28px;">
+                                <tr>
+                                    <td valign="middle" style="padding-right: 12px;">
+                                        <div style="width: 42px; height: 42px; border-radius: 12px; background-color: #243642; text-align: center; line-height: 42px; color: #FFFFFF; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 20px; font-weight: 800;">
+                                            G
+                                        </div>
+                                    </td>
+                                    <td valign="middle">
+                                        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 22px; font-weight: 800; color: #243642; letter-spacing: -0.3px;">
+                                            Guios<span style="color: #F7A35F;">Pro</span>
+                                        </div>
+                                        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 11px; font-weight: 700; color: #7FBFC1; text-transform: uppercase; letter-spacing: 0.6px;">
+                                            Software Libre
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- Título Serif Newsreader -->
+                            <h1 class="serif-title h1-title" style="margin: 0 0 14px 0; font-family: 'Newsreader', Georgia, 'Times New Roman', serif; font-size: 28px; line-height: 36px; font-weight: 700; color: #243642;">
+                                Código de verificación
+                            </h1>
+
+                            <!-- Párrafo explicativo -->
+                            <p style="margin: 0 0 28px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 15px; line-height: 23px; color: #4F6170;">
+                                Hola{% if user_name %} <strong style="color: #243642;">{{ user_name }}</strong>{% endif %}, has solicitado ingresar a tu cuenta de <strong style="color: #243642;">GuiosPro</strong>. Ingresa el siguiente código temporal de seguridad para validar tu identidad:
+                            </p>
+
+                            <!-- Cuadros del código: 1 recuadro por dígito con diseño GuiosPro -->
+                            <table role="presentation" align="center" cellpadding="0" cellspacing="0" border="0" style="margin: 0 auto 16px auto;">
+                                <tr>
+                                    {% for digit in code %}
+                                    <td style="padding: 0 5px;">
+                                        <div class="digit-box" style="width: 48px; height: 60px; background-color: #F6F5F3; border: 2px solid #7FBFC1; border-radius: 14px; font-family: 'Courier New', Consolas, monospace; font-size: 32px; line-height: 60px; font-weight: 800; color: #243642; text-align: center;">
+                                            {{ digit }}
+                                        </div>
+                                    </td>
+                                    {% endfor %}
+                                </tr>
+                            </table>
+
+                            <!-- Tiempo de expiración -->
+                            <p align="center" style="margin: 0 0 28px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; line-height: 20px; color: #4F6170;">
+                                Este código vence en <strong style="color: #B84318;">{{ expires_minutes }} minutos</strong> y solo es válido para un único uso.
+                            </p>
+
+                            <!-- Cuadro de seguridad institucional (Naranja suave con fondo cálido) -->
+                            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 24px;">
+                                <tr>
+                                    <td style="background-color: #FDF4EB; border-left: 4px solid #F7A35F; border-radius: 12px; padding: 14px 18px;">
+                                        <p style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; line-height: 20px; color: #7A3E0A;">
+                                            <strong style="color: #5B2B04;">Seguridad de la cuenta:</strong> Nunca compartas este código con nadie. El equipo de GuiosPro jamás te solicitará tu código por teléfono, mensajería ni correo.
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <p style="margin: 0 0 24px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; line-height: 20px; color: #6B7C8C;">
+                                Si tú no iniciaste esta solicitud, puedes ignorar este correo de forma segura. Te recomendamos cambiar tu contraseña para mantener tu cuenta protegida.
+                            </p>
+
+                            <!-- Divisor y pie -->
+                            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                    <td style="border-top: 1px solid #D5ECEC; padding-top: 20px;">
+                                        <p style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12px; line-height: 18px; color: #7A8E9E;">
+                                            ¿Tienes dudas o necesitas asistencia? Contáctanos en
+                                            <a href="mailto:{{ support_email|default:'soporte@guiospro.local' }}" style="color: #243642; font-weight: 600; text-decoration: underline;">
+                                                {{ support_email|default:'soporte@guiospro.local' }}
+                                            </a>.
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+
+                        </td>
+                    </tr>
+
+                    <!-- Footer institucional exterior -->
+                    <tr>
+                        <td align="center" style="background-color: #F6F5F3; padding: 16px 24px 20px 24px; border-top: 1px solid #D5ECEC; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12px; line-height: 18px; color: #7A8E9E;">
+                            &copy; {{ year }} GuiosPro &mdash; Adopción y Evaluación Metodológica de Software Libre.<br>
+                            Este mensaje se envió de forma automática desde una dirección de notificaciones.
+                        </td>
+                    </tr>
+
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

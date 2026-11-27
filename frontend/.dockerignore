@@ -1,0 +1,20 @@
+# Dependencias
+node_modules/
+
+# Variables de entornos
+.env
+.env.*
+*.env
+
+# Git
+.git
+.gitignore
+
+# Logs
+logs/
+*.log
+
+# Caché
+.cache/
+.npm/
+

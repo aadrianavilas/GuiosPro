@@ -1,0 +1,140 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Newsreader', Georgia, serif;
+  --font-sans: 'Figtree', system-ui, -apple-system, sans-serif;
+
+  /* Paleta oficial GuiosPro */
+  --color-brand-cream: #F6F5F3;
+  --color-brand-mint: #D5ECEC;
+  --color-brand-mint-dark: #BFE0E0;
+  --color-brand-mint-border: #B4D6D6;
+  --color-brand-orange: #F7A35F;
+  --color-brand-orange-light: #FBB982;
+  --color-brand-peach: #FDE2C8;
+  --color-brand-peach-text: #7A3E0A;
+  --color-brand-yellow: #F9E8A0;
+  --color-brand-yellow-text: #5B4A12;
+  --color-brand-teal: #7FBFC1;
+  --color-brand-teal-text: #16303B;
+  --color-brand-slate: #2B3F4C;
+  --color-brand-slate-deep: #1F3340;
+  --color-brand-slate-mid: #3B4F5E;
+  --color-brand-slate-subtle: #4F6170;
+  --color-brand-terracotta: #B8531A;
+  --color-brand-green: #1F7A4D;
+
+  --radius-field: 14px;
+  --radius-card: 24px;
+  --radius-panel: 32px;
+}
+
+body {
+  background-color: #F6F5F3;
+  color: #2B3F4C;
+  font-family: 'Figtree', sans-serif;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   SCROLLBAR PERSONALIZADO FINO COLOR TURQUESA (#7FBFC1)
+   ══════════════════════════════════════════════════════════════════════════ */
+/* WebKit (Chrome, Edge, Safari, Brave) */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #7FBFC1;
+  border-radius: 9999px;
+  transition: background-color 0.2s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #65A8AA;
+}
+
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #7FBFC1 transparent;
+}
+
+/* Reglas de estilo estándar para títulos y botones */
+h1, h2, h3, .font-title {
+  font-family: 'Newsreader', Georgia, serif;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   ESTILOS DE IMPRESIÓN Y EXPORTACIÓN A PDF (A4 DINÁMICO)
+   ══════════════════════════════════════════════════════════════════════════ */
+@media screen {
+  #guiospro-evaluation-pdf-report {
+    position: fixed !important;
+    left: -99999px !important;
+    top: 0 !important;
+    width: 210mm !important;
+    height: 0 !important;
+    overflow: hidden !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+    z-index: -9999 !important;
+  }
+}
+
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 12mm 14mm 12mm 14mm;
+  }
+
+  html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+    background: #FFFFFF !important;
+    color: #243642 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Ocultar toda la interfaz visual de React en la impresión */
+  #root {
+    display: none !important;
+  }
+
+  /* Mostrar exclusivamente el reporte PDF montado en el body */
+  #guiospro-evaluation-pdf-report {
+    position: static !important;
+    left: auto !important;
+    top: auto !important;
+    height: auto !important;
+    overflow: visible !important;
+    opacity: 1 !important;
+    pointer-events: auto !important;
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    background: #FFFFFF !important;
+    visibility: visible !important;
+  }
+
+  /* Evitar cortes indeseados a mitad de tablas, tarjetas o bloques */
+  .pdf-avoid-break {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+  }
+}
+

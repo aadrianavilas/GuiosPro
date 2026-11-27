@@ -1,0 +1,532 @@
+[
+  {
+    "code": "1911.04016v2",
+    "title": "Challenges for Inclusion in Software Engineering: The Case of the Emerging Papua New Guinean Society",
+    "authors": "Raula Gaikovina Kula, Christoph Treude, Hideaki Hata",
+    "year": 2019,
+    "abstract_url": "https://arxiv.org/abs/1911.04016v2",
+    "pdf_url": "https://arxiv.org/pdf/1911.04016v2.pdf",
+    "resumen": "Software plays a central role in modern societies, with its high economic value and potential for advancing societal change. In this paper, we characterise challenges and opportunities for a country progressing towards entering the global software industry, focusing on Papua New Guinea (PNG). By hosting a Software Engineering workshop, we conducted",
+    "category": "software compatibility"
+  },
+  {
+    "code": "2406.04710v2",
+    "title": "Morescient GAI for Software Engineering (Extended Version)",
+    "authors": "Marcus Kessel, Colin Atkinson",
+    "year": 2024,
+    "abstract_url": "https://arxiv.org/abs/2406.04710v2",
+    "pdf_url": "https://arxiv.org/pdf/2406.04710v2.pdf",
+    "resumen": "The ability of Generative AI (GAI) technology to automatically check, synthesize and modify software engineering artifacts promises to revolutionize all aspects of software engineering. Using GAI for software engineering tasks is consequently one of the most rapidly expanding fields of software engineering research, with over a hundred LLM-based co",
+    "category": "software compatibility"
+  },
+  {
+    "code": "2207.01254v1",
+    "title": "The Present and Future of Bots in Software Engineering",
+    "authors": "Emad Shihab, Stefan Wagner, Marco A. Gerosa",
+    "year": 2022,
+    "abstract_url": "https://arxiv.org/abs/2207.01254v1",
+    "pdf_url": "https://arxiv.org/pdf/2207.01254v1.pdf",
+    "resumen": "We are witnessing a massive adoption of software engineering bots, applications that react to events triggered by tools and messages posted by users and run automated tasks in response, in a variety of domains. This thematic issues describes experiences and challenges with these bots.",
+    "category": "software compatibility"
+  },
+  {
+    "code": "2109.10971v1",
+    "title": "Developers Perception of Peer Code Review in Research Software Development",
+    "authors": "Nasir U. Eisty, Jeffrey C. Carver",
+    "year": 2021,
+    "abstract_url": "https://arxiv.org/abs/2109.10971v1",
+    "pdf_url": "https://arxiv.org/pdf/2109.10971v1.pdf",
+    "resumen": "Background: Research software is software developed by and/or used by researchers, across a wide variety of domains, to perform their research. Because of the complexity of research software, developers cannot conduct exhaustive testing. As a result, researchers have lower confidence in the correctness of the output of the software. Peer code revie",
+    "category": "software compatibility"
+  },
+  {
+    "code": "1710.09055v2",
+    "title": "We Don't Need Another Hero? The Impact of \"Heroes\" on Software Development",
+    "authors": "Amritanshu Agrawal, Akond Rahman, Rahul Krishna",
+    "year": 2017,
+    "abstract_url": "https://arxiv.org/abs/1710.09055v2",
+    "pdf_url": "https://arxiv.org/pdf/1710.09055v2.pdf",
+    "resumen": "A software project has \"Hero Developers\" when 80% of contributions are delivered by 20% of the developers. Are such heroes a good idea? Are too many heroes bad for software quality? Is it better to have more/less heroes for different kinds of projects? To answer these questions, we studied 661 open source projects from Public open source software (",
+    "category": "software compatibility"
+  },
+  {
+    "code": "2402.03805v2",
+    "title": "Automated Description Generation for Software Patches",
+    "authors": "Thanh Trong Vu, Tuan-Dung Bui, Thanh-Dat Do",
+    "year": 2024,
+    "abstract_url": "https://arxiv.org/abs/2402.03805v2",
+    "pdf_url": "https://arxiv.org/pdf/2402.03805v2.pdf",
+    "resumen": "Software patches are pivotal in refining and evolving codebases, addressing bugs, vulnerabilities, and optimizations. Patch descriptions provide detailed accounts of changes, aiding comprehension and collaboration among developers. However, manual description creation poses challenges in terms of time consumption and variations in quality and detai",
+    "category": "software compatibility"
+  },
+  {
+    "code": "1908.05399v1",
+    "title": "How does Object-Oriented Code Refactoring Influence Software Quality? Research Landscape and Challenges",
+    "authors": "Satnam Kaur, Paramvir Singh",
+    "year": 2019,
+    "abstract_url": "https://arxiv.org/abs/1908.05399v1",
+    "pdf_url": "https://arxiv.org/pdf/1908.05399v1.pdf",
+    "resumen": "Context: Software refactoring aims to improve software quality and developer productivity. Numerous empirical studies investigating the impact of refactoring activities on software quality have been conducted over the last two decades. Objective: This study aims to perform a comprehensive systematic mapping study of existing empirical studies on ev",
+    "category": "software compatibility"
+  },
+  {
+    "code": "1904.04104v1",
+    "title": "Software Engineering in Civic Tech: A Case Study about Code for Ireland",
+    "authors": "Antti Knutas, Victoria Palacin, Giovanni Maccani",
+    "year": 2019,
+    "abstract_url": "https://arxiv.org/abs/1904.04104v1",
+    "pdf_url": "https://arxiv.org/pdf/1904.04104v1.pdf",
+    "resumen": "Civic grassroots have proven their ability to create useful and scalable software that addresses pressing social needs. Although software engineering plays a fundamental role in the process of creating civic technology, academic literature that analyses the software development processes of civic tech grassroots is scarce. This paper aims to advanc",
+    "category": "software compatibility"
+  },
+  {
+    "code": "2412.06307v1",
+    "title": "Industrial Code Quality Benchmarks: Toward Gamification of Software Maintainability",
+    "authors": "Markus Borg, Amogha Udayakumar, Adam Tornhill",
+    "year": 2024,
+    "abstract_url": "https://arxiv.org/abs/2412.06307v1",
+    "pdf_url": "https://arxiv.org/pdf/2412.06307v1.pdf",
+    "resumen": "Software maintainability is essential for long-term success in the software industry. Despite widespread evidence of the high costs associated with poor maintainability, market pressure drives many organizations to prioritize short-term releases. This focus leads to accumulating technical debt worldwide. In this preliminary work, we propose maintai",
+    "category": "software maintainability"
+  },
+  {
+    "code": "1608.04336v3",
+    "title": "The Scalability-Efficiency/Maintainability-Portability Trade-off in Simulation Software Engineering: Examples and a Preliminary Systematic Literature Review",
+    "authors": "Dirk Pflüger, Miriam Mehl, Julian Valentin",
+    "year": 2016,
+    "abstract_url": "https://arxiv.org/abs/1608.04336v3",
+    "pdf_url": "https://arxiv.org/pdf/1608.04336v3.pdf",
+    "resumen": "Large-scale simulations play a central role in science and the industry. Several challenges occur when building simulation software, because simulations require complex software developed in a dynamic construction process. That is why simulation software engineering (SSE) is emerging lately as a research focus. The dichotomous trade-off between sca",
+    "category": "software maintainability"
+  },
+  {
+    "code": "2503.16969v1",
+    "title": "Extending Behavior Trees for Robotic Missions with Quality Requirements",
+    "authors": "Razan Ghzouli, Rebekka Wohlrab, Jennifer Horkoff",
+    "year": 2025,
+    "abstract_url": "https://arxiv.org/abs/2503.16969v1",
+    "pdf_url": "https://arxiv.org/pdf/2503.16969v1.pdf",
+    "resumen": "Context and motivation: In recent years, behavior trees have gained growing interest within the robotics community as a specification and control switching mechanism for the different tasks that form a robotics mission. Problem: Given the rising complexity and prevalence of robotic systems, it is increasingly challenging and important for practitio",
+    "category": "software quality"
+  },
+  {
+    "code": "2103.02187v1",
+    "title": "On Understanding the Relation of Knowledge and Confidence to Requirements Quality",
+    "authors": "Razieh Dehghani, Krzysztof Wnuk, Daniel Mendez",
+    "year": 2021,
+    "abstract_url": "https://arxiv.org/abs/2103.02187v1",
+    "pdf_url": "https://arxiv.org/pdf/2103.02187v1.pdf",
+    "resumen": "Context and Motivation: Software requirements are affected by the knowledge and confidence of software engineers. Analyzing the interrelated impact of these factors is difficult because of the challenges of assessing knowledge and confidence.   Question/Problem: This research aims to draw attention to the need for considering the interrelated effec",
+    "category": "software quality"
+  },
+  {
+    "code": "2502.06546v1",
+    "title": "Do Users' Explainability Needs in Software Change with Mood?",
+    "authors": "Martin Obaidi, Jakob Droste, Hannah Deters",
+    "year": 2025,
+    "abstract_url": "https://arxiv.org/abs/2502.06546v1",
+    "pdf_url": "https://arxiv.org/pdf/2502.06546v1.pdf",
+    "resumen": "Context and Motivation: The increasing complexity of modern software systems often challenges users' abilities to interact with them. Taking established quality attributes such as usability and transparency into account can mitigate this problem, but often do not suffice to completely solve it. Recently, explainability has emerged as essential non-",
+    "category": "software quality"
+  },
+  {
+    "code": "2301.07516v1",
+    "title": "Quality Attributes Optimization of Software Architecture: Research Challenges and Directions",
+    "authors": "Daniele Di Pompeo, Michele Tucci",
+    "year": 2023,
+    "abstract_url": "https://arxiv.org/abs/2301.07516v1",
+    "pdf_url": "https://arxiv.org/pdf/2301.07516v1.pdf",
+    "resumen": "The estimation and improvement of quality attributes in software architectures is a challenging and time-consuming activity. On modern software applications, a model-based representation is crucial to face the complexity of such activity. One main challenge is that the improvement of distinctive quality attributes may require contrasting refactorin",
+    "category": "software quality"
+  },
+  {
+    "code": "2301.12202v1",
+    "title": "A customizable approach to assess software quality through Multi-Criteria Decision Making",
+    "authors": "Francesco Basciani, Daniele Di Pompeo, Juri Di Rocco",
+    "year": 2023,
+    "abstract_url": "https://arxiv.org/abs/2301.12202v1",
+    "pdf_url": "https://arxiv.org/pdf/2301.12202v1.pdf",
+    "resumen": "Over the years, Software Quality Engineering has increased interest, demonstrated by significant research papers published in this area. Determining when a software artifact is qualitatively valid is tricky, given the impossibility of providing an objective definition valid for any perspective, context, or stakeholder. Many quality model solutions ",
+    "category": "software quality"
+  },
+  {
+    "code": "2301.07500v1",
+    "title": "Multi-objective Software Architecture Refactoring driven by Quality Attributes",
+    "authors": "Daniele Di Pompeo, Michele Tucci",
+    "year": 2023,
+    "abstract_url": "https://arxiv.org/abs/2301.07500v1",
+    "pdf_url": "https://arxiv.org/pdf/2301.07500v1.pdf",
+    "resumen": "Architecture optimization is the process of automatically generating design options, typically to enhance software's quantifiable quality attributes, such as performance and reliability. Multi-objective optimization approaches have been used in this situation to assist the designer in selecting appropriate trade-offs between a number of non-functio",
+    "category": "software quality"
+  },
+  {
+    "code": "2307.13386v1",
+    "title": "BotHawk: An Approach for Bots Detection in Open Source Software Projects",
+    "authors": "Fenglin Bi, Zhiwei Zhu, Wei Wang",
+    "year": 2023,
+    "abstract_url": "https://arxiv.org/abs/2307.13386v1",
+    "pdf_url": "https://arxiv.org/pdf/2307.13386v1.pdf",
+    "resumen": "Social coding platforms have revolutionized collaboration in software development, leading to using software bots for streamlining operations. However, The presence of open-source software (OSS) bots gives rise to problems including impersonation, spamming, bias, and security risks. Identifying bot accounts and behavior is a challenging task in the",
+    "category": "open source software governance"
+  },
+  {
+    "code": "1810.07227v1",
+    "title": "A Metric of Software Size as a Tool for IT Governance",
+    "authors": "Marcus Vinicius Borela de Castro, Carlos Alberto Mamede Hernandes",
+    "year": 2018,
+    "abstract_url": "https://arxiv.org/abs/1810.07227v1",
+    "pdf_url": "https://arxiv.org/pdf/1810.07227v1.pdf",
+    "resumen": "This paper proposes a new metric for software functional size, which is derived from Function Point Analysis (FPA), but overcomes some of its known defi- ciencies. The statistical results show that the new metric, Functional Elements (EF), and its submetric, Functional Elements of Transaction (EFt), have higher correlation with the effort in softwa",
+    "category": "open source software governance"
+  },
+  {
+    "code": "2003.10750v3",
+    "title": "Open Source Software Development Challenges: A Systematic Literature Review on GitHub",
+    "authors": "Abdulkadir Şeker, Banu Diri, Halil Arslan",
+    "year": 2020,
+    "abstract_url": "https://arxiv.org/abs/2003.10750v3",
+    "pdf_url": "https://arxiv.org/pdf/2003.10750v3.pdf",
+    "resumen": "Git is used as the distributed version control system for many open-source software projects. One Git-based service, GitHub, is the most common code hosting and repository service for open-source software projects. For researchers that study software engineering, the content that is hosted on these platforms provides much valuable data. There are s",
+    "category": "open source software governance"
+  },
+  {
+    "code": "cs/0407051v2",
+    "title": "Bug shallowness in open-source, Macintosh software",
+    "authors": "G Gordon Worley",
+    "year": 2004,
+    "abstract_url": "https://arxiv.org/abs/cs/0407051v2",
+    "pdf_url": "https://arxiv.org/pdf/cs/0407051v2.pdf",
+    "resumen": "Central to the power of open-source software is bug shallowness, the relative ease of finding and fixing bugs. The open-source movement began with Unix software, so many users were also programmers capable of finding and fixing bugs given the source code. But as the open-source movement reaches the Macintosh platform, bugs may not be shallow becaus",
+    "category": "open source software governance"
+  },
+  {
+    "code": "0904.4708v1",
+    "title": "Quality Classifiers for Open Source Software Repositories",
+    "authors": "George Tsatsaronis, Maria Halkidi, Emmanouel A. Giakoumakis",
+    "year": 2009,
+    "abstract_url": "https://arxiv.org/abs/0904.4708v1",
+    "pdf_url": "https://arxiv.org/pdf/0904.4708v1.pdf",
+    "resumen": "Open Source Software (OSS) often relies on large repositories, like SourceForge, for initial incubation. The OSS repositories offer a large variety of meta-data providing interesting information about projects and their success. In this paper we propose a data mining approach for training classifiers on the OSS meta-data provided by such data repos",
+    "category": "open source software governance"
+  },
+  {
+    "code": "1507.06927v1",
+    "title": "Myths and Realities about Online Forums in Open Source Software Development: An Empirical Study",
+    "authors": "Faheem Ahmed, Piers Campbell, Ahmad Jaffar",
+    "year": 2015,
+    "abstract_url": "https://arxiv.org/abs/1507.06927v1",
+    "pdf_url": "https://arxiv.org/pdf/1507.06927v1.pdf",
+    "resumen": "The use of free and open source software (OSS) is gaining momentum due to the ever increasing availability and use of the Internet. Organizations are also now adopting open source software, despite some reservations, in particular regarding the provision and availability of support. Some of the biggest concerns about free and open source software a",
+    "category": "open source software governance"
+  },
+  {
+    "code": "1902.02595v3",
+    "title": "A Manually-Curated Dataset of Fixes to Vulnerabilities of Open-Source Software",
+    "authors": "Serena E. Ponta, Henrik Plate, Antonino Sabetta",
+    "year": 2019,
+    "abstract_url": "https://arxiv.org/abs/1902.02595v3",
+    "pdf_url": "https://arxiv.org/pdf/1902.02595v3.pdf",
+    "resumen": "Advancing our understanding of software vulnerabilities, automating their identification, the analysis of their impact, and ultimately their mitigation is necessary to enable the development of software that is more secure. While operating a vulnerability assessment tool that we developed and that is currently used by hundreds of development units ",
+    "category": "open source software governance"
+  },
+  {
+    "code": "2102.12267v1",
+    "title": "OSS PESTO: An Open Source Software Project Evaluation and Selection TOol",
+    "authors": "Xiaozhou Li, Sergio Moreschini",
+    "year": 2021,
+    "abstract_url": "https://arxiv.org/abs/2102.12267v1",
+    "pdf_url": "https://arxiv.org/pdf/2102.12267v1.pdf",
+    "resumen": "Open source software (OSS), playing an increasingly critical role nowadays, has been commonly adopted and integrated in various software products. For many practitioners, selecting and adopting suitable OSS can help them greatly. Though many studies have been conducted on proposing OSS evaluation and selection models, a limited number are followed ",
+    "category": "open source software governance"
+  },
+  {
+    "code": "2305.16615v1",
+    "title": "AIBugHunter: A Practical Tool for Predicting, Classifying and Repairing Software Vulnerabilities",
+    "authors": "Michael Fu, Chakkrit Tantithamthavorn, Trung Le",
+    "year": 2023,
+    "abstract_url": "https://arxiv.org/abs/2305.16615v1",
+    "pdf_url": "https://arxiv.org/pdf/2305.16615v1.pdf",
+    "resumen": "Many ML-based approaches have been proposed to automatically detect, localize, and repair software vulnerabilities. While ML-based methods are more effective than program analysis-based vulnerability analysis tools, few have been integrated into modern IDEs, hindering practical adoption. To bridge this critical gap, we propose AIBugHunter, a novel ",
+    "category": "software security vulnerability"
+  },
+  {
+    "code": "0911.0494v1",
+    "title": "Software Security Rules, SDLC Perspective",
+    "authors": "C. Banerjee, S. K. Pandey",
+    "year": 2009,
+    "abstract_url": "https://arxiv.org/abs/0911.0494v1",
+    "pdf_url": "https://arxiv.org/pdf/0911.0494v1.pdf",
+    "resumen": "Software has become an integral part of everyday life. Everyday, millions of people perform transaction through internet, ATM, mobile phone, they send email and Egreetings, and use word processing and spreadsheet for various purpose. People use software bearing in mind that it is reliable and can be trust upon and the operation they perform is secu",
+    "category": "software security vulnerability"
+  },
+  {
+    "code": "2609.10502v1",
+    "title": "Wicked Problem, Parsimonious Solution: Securing Electric Vehicle Charging Station Software",
+    "authors": "Emma Sheppard, Zachary Wadhams, Dalton Arford",
+    "year": 2026,
+    "abstract_url": "https://arxiv.org/abs/2609.10502v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.10502v1.pdf",
+    "resumen": "Electric vehicle charging infrastructure presents a suite of novel cyber-physical threats. Among this infrastructure, charging stations are the most vulnerable elements. The software in the charging station supply equipment is particularly vulnerable. Currently, the software is an attack surface that is largely unprotected and poorly characterized.",
+    "category": "software security vulnerability"
+  },
+  {
+    "code": "2112.02240v2",
+    "title": "Tracking Patches for Open Source Software Vulnerabilities",
+    "authors": "Congying Xu, Bihuan Chen, Chenhao Lu",
+    "year": 2021,
+    "abstract_url": "https://arxiv.org/abs/2112.02240v2",
+    "pdf_url": "https://arxiv.org/pdf/2112.02240v2.pdf",
+    "resumen": "Open source software (OSS) vulnerabilities threaten the security of software systems that use OSS. Vulnerability databases provide valuable information (e.g., vulnerable version and patch) to mitigate OSS vulnerabilities. There arises a growing concern about the information quality of vulnerability databases. However, it is unclear what the quality",
+    "category": "software security vulnerability"
+  },
+  {
+    "code": "2103.11316v1",
+    "title": "Automated Software Vulnerability Assessment with Concept Drift",
+    "authors": "Triet H. M. Le, Bushra Sabir, M. Ali Babar",
+    "year": 2021,
+    "abstract_url": "https://arxiv.org/abs/2103.11316v1",
+    "pdf_url": "https://arxiv.org/pdf/2103.11316v1.pdf",
+    "resumen": "Software Engineering researchers are increasingly using Natural Language Processing (NLP) techniques to automate Software Vulnerabilities (SVs) assessment using the descriptions in public repositories. However, the existing NLP-based approaches suffer from concept drift. This problem is caused by a lack of proper treatment of new (out-of-vocabulary",
+    "category": "software security vulnerability"
+  },
+  {
+    "code": "1309.1677v1",
+    "title": "Toward a Research Software Security Maturity Model",
+    "authors": "Randy Heiland, Betsy Thomas, Von Welch",
+    "year": 2013,
+    "abstract_url": "https://arxiv.org/abs/1309.1677v1",
+    "pdf_url": "https://arxiv.org/pdf/1309.1677v1.pdf",
+    "resumen": "In its Vision and Strategy for Software for Science, Engineering, and Education the NSF states that it will invest in activities that: \"Recognize that software strategies must include the secure and reliable deployment and operation of services, for example by campuses or national facilities or industry, where identity, authentication, authorizatio",
+    "category": "software security vulnerability"
+  },
+  {
+    "code": "2408.00435v1",
+    "title": "A Qualitative Study on Using ChatGPT for Software Security: Perception vs. Practicality",
+    "authors": "M. Mehdi Kholoosi, M. Ali Babar, Roland Croft",
+    "year": 2024,
+    "abstract_url": "https://arxiv.org/abs/2408.00435v1",
+    "pdf_url": "https://arxiv.org/pdf/2408.00435v1.pdf",
+    "resumen": "Artificial Intelligence (AI) advancements have enabled the development of Large Language Models (LLMs) that can perform a variety of tasks with remarkable semantic understanding and accuracy. ChatGPT is one such LLM that has gained significant attention due to its impressive capabilities for assisting in various knowledge-intensive tasks. Due to th",
+    "category": "software security vulnerability"
+  },
+  {
+    "code": "1707.03869v3",
+    "title": "Cognitive Biases in Software Engineering: A Systematic Mapping Study",
+    "authors": "Rahul Mohanani, Iflaah Salman, Burak Turhan",
+    "year": 2017,
+    "abstract_url": "https://arxiv.org/abs/1707.03869v3",
+    "pdf_url": "https://arxiv.org/pdf/1707.03869v3.pdf",
+    "resumen": "One source of software project challenges and failures is the systematic errors introduced by human cognitive biases. Although extensively explored in cognitive psychology, investigations concerning cognitive biases have only recently gained popularity in software engineering (SE) research. This paper therefore systematically maps, aggregates and s",
+    "category": "software reliability engineering"
+  },
+  {
+    "code": "2406.07737v2",
+    "title": "The Future of AI-Driven Software Engineering",
+    "authors": "Valerio Terragni, Annie Vella, Partha Roop",
+    "year": 2024,
+    "abstract_url": "https://arxiv.org/abs/2406.07737v2",
+    "pdf_url": "https://arxiv.org/pdf/2406.07737v2.pdf",
+    "resumen": "A paradigm shift is underway in Software Engineering, with AI systems such as LLMs playing an increasingly important role in boosting software development productivity. This trend is anticipated to persist. In the next years, we expect a growing symbiotic partnership between human software developers and AI. The Software Engineering research commun",
+    "category": "software reliability engineering"
+  },
+  {
+    "code": "2204.06033v1",
+    "title": "Text and Team: What Article Metadata Characteristics Drive Citations in Software Engineering?",
+    "authors": "Lorenz Graf-Vlachy, Daniel Graziotin, Stefan Wagner",
+    "year": 2022,
+    "abstract_url": "https://arxiv.org/abs/2204.06033v1",
+    "pdf_url": "https://arxiv.org/pdf/2204.06033v1.pdf",
+    "resumen": "Context: Citations are a key measure of scientific performance in most fields, including software engineering. However, there is limited research that studies which characteristics of articles' metadata (title, abstract, keywords, and author list) are driving citations in this field. Objective: In this study, we propose a simple theoretical model f",
+    "category": "software reliability engineering"
+  },
+  {
+    "code": "1601.07392v2",
+    "title": "Nmag micromagnetic simulation tool - software engineering lessons learned",
+    "authors": "Hans Fangohr, Maximilian Albert, Matteo Franchin",
+    "year": 2016,
+    "abstract_url": "https://arxiv.org/abs/1601.07392v2",
+    "pdf_url": "https://arxiv.org/pdf/1601.07392v2.pdf",
+    "resumen": "We review design and development decisions and their impact for the open source code Nmag from a software engineering in computational science point of view. We summarise lessons learned and recommendations for future computational science projects. Key lessons include that encapsulating the simulation functionality in a library of a general purpos",
+    "category": "software reliability engineering"
+  },
+  {
+    "code": "2308.05381v4",
+    "title": "An Exploratory Study of V-Model in Building ML-Enabled Software: A Systems Engineering Perspective",
+    "authors": "Jie JW Wu",
+    "year": 2023,
+    "abstract_url": "https://arxiv.org/abs/2308.05381v4",
+    "pdf_url": "https://arxiv.org/pdf/2308.05381v4.pdf",
+    "resumen": "Machine learning (ML) components are being added to more and more critical and impactful software systems, but the software development process of real-world production systems from prototyped ML models remains challenging with additional complexity and interdisciplinary collaboration challenges. This poses difficulties in using traditional softwar",
+    "category": "software reliability engineering"
+  },
+  {
+    "code": "2406.04780v1",
+    "title": "Software Engineering for Collective Cyber-Physical Ecosystems",
+    "authors": "Roberto Casadei, Gianluca Aguzzi, Giorgio Audrito",
+    "year": 2024,
+    "abstract_url": "https://arxiv.org/abs/2406.04780v1",
+    "pdf_url": "https://arxiv.org/pdf/2406.04780v1.pdf",
+    "resumen": "Today's distributed and pervasive computing addresses large-scale cyber-physical ecosystems, characterised by dense and large networks of devices capable of computation, communication and interaction with the environment and people. While most research focusses on treating these systems as \"composites\" (i.e., heterogeneous functional complexes), re",
+    "category": "software reliability engineering"
+  },
+  {
+    "code": "2308.13875v1",
+    "title": "Performance of Genetic Algorithms in the Context of Software Model Refactoring",
+    "authors": "Vittorio Cortellessa, Daniele Di Pompeo, Michele Tucci",
+    "year": 2023,
+    "abstract_url": "https://arxiv.org/abs/2308.13875v1",
+    "pdf_url": "https://arxiv.org/pdf/2308.13875v1.pdf",
+    "resumen": "Software systems continuously evolve due to new functionalities, requirements, or maintenance activities. In the context of software evolution, software refactoring has gained a strategic relevance. The space of possible software refactoring is usually very large, as it is given by the combinations of different refactoring actions that can produce ",
+    "category": "software performance evaluation"
+  },
+  {
+    "code": "2209.15369v2",
+    "title": "Towards effective assessment of steady state performance in Java software: Are we there yet?",
+    "authors": "Luca Traini, Vittorio Cortellessa, Daniele Di Pompeo",
+    "year": 2022,
+    "abstract_url": "https://arxiv.org/abs/2209.15369v2",
+    "pdf_url": "https://arxiv.org/pdf/2209.15369v2.pdf",
+    "resumen": "Microbenchmarking is a widely used form of performance testing in Java software. A microbenchmark repeatedly executes a small chunk of code while collecting measurements related to its performance. Due to Java Virtual Machine optimizations, microbenchmarks are usually subject to severe performance fluctuations in the first phase of their execution ",
+    "category": "software performance evaluation"
+  },
+  {
+    "code": "2311.03365v1",
+    "title": "Leveraging Generative AI: Improving Software Metadata Classification with Generated Code-Comment Pairs",
+    "authors": "Samah Syed, Angel Deborah S",
+    "year": 2023,
+    "abstract_url": "https://arxiv.org/abs/2311.03365v1",
+    "pdf_url": "https://arxiv.org/pdf/2311.03365v1.pdf",
+    "resumen": "In software development, code comments play a crucial role in enhancing code comprehension and collaboration. This research paper addresses the challenge of objectively classifying code comments as \"Useful\" or \"Not Useful.\" We propose a novel solution that harnesses contextualized embeddings, particularly BERT, to automate this classification proce",
+    "category": "software performance evaluation"
+  },
+  {
+    "code": "2108.04311v1",
+    "title": "Recommender Systems for Software Project Managers",
+    "authors": "Liang Wei, Luiz Fernando Capretz",
+    "year": 2021,
+    "abstract_url": "https://arxiv.org/abs/2108.04311v1",
+    "pdf_url": "https://arxiv.org/pdf/2108.04311v1.pdf",
+    "resumen": "The design of recommendation systems is based on complex information processing and big data interaction. This personalized view has evolved into a hot area in the past decade, where applications might have been proved to help for solving problem in the software development field. Therefore, with the evolvement of Recommendation System in Software ",
+    "category": "software performance evaluation"
+  },
+  {
+    "code": "2406.16739v1",
+    "title": "Agent-Driven Automatic Software Improvement",
+    "authors": "Fernando Vallecillos Ruiz",
+    "year": 2024,
+    "abstract_url": "https://arxiv.org/abs/2406.16739v1",
+    "pdf_url": "https://arxiv.org/pdf/2406.16739v1.pdf",
+    "resumen": "With software maintenance accounting for 50% of the cost of developing software, enhancing code quality and reliability has become more critical than ever. In response to this challenge, this doctoral research proposal aims to explore innovative solutions by focusing on the deployment of agents powered by Large Language Models (LLMs) to perform sof",
+    "category": "software performance evaluation"
+  },
+  {
+    "code": "2605.10824v1",
+    "title": "StartFlow: From Method Conception to Multi-Perspective Evaluation in UX Prototyping for Software Startups",
+    "authors": "Guilherme Corredato Guerino, João Pedro de Souza Olivo Tardivo, Renato Balancieri",
+    "year": 2026,
+    "abstract_url": "https://arxiv.org/abs/2605.10824v1",
+    "pdf_url": "https://arxiv.org/pdf/2605.10824v1.pdf",
+    "resumen": "Context. Software startups face significant challenges in building minimum viable products, particularly in the early stages, when resources are limited and expertise in user experience is scarce. Objective. Introduce StartFlow, a structured method that helps non-specialized professionals create MVP prototypes using the wireflow technique, a combin",
+    "category": "software performance evaluation"
+  },
+  {
+    "code": "2007.10744v3",
+    "title": "Beyond Accuracy: Assessing Software Documentation Quality",
+    "authors": "Christoph Treude, Justin Middleton, Thushari Atapattu",
+    "year": 2020,
+    "abstract_url": "https://arxiv.org/abs/2007.10744v3",
+    "pdf_url": "https://arxiv.org/pdf/2007.10744v3.pdf",
+    "resumen": "Good software documentation encourages good software engineering, but the meaning of \"good\" documentation is vaguely defined in the software engineering literature. To clarify this ambiguity, we draw on work from the data and information quality community to propose a framework that decomposes documentation quality into ten dimensions of structure,",
+    "category": "software documentation quality"
+  },
+  {
+    "code": "2010.02971v1",
+    "title": "Documentation of quality requirements in agile software development",
+    "authors": "Woubshet Behutiye, Pertti Seppanen, Pilar Rodriguez",
+    "year": 2020,
+    "abstract_url": "https://arxiv.org/abs/2010.02971v1",
+    "pdf_url": "https://arxiv.org/pdf/2010.02971v1.pdf",
+    "resumen": "Context: Quality requirements (QRs) have a significant role in the success of software projects. In agile software development (ASD), where working software is valued over comprehensive documentation, QRs are often under-specified or not documented. Consequently, they may be handled improperly and result in degraded software quality and increased m",
+    "category": "software documentation quality"
+  },
+  {
+    "code": "2110.01921v1",
+    "title": "Towards optimal quality requirement documentation in agile software development: a multiple case study",
+    "authors": "Woubshet Behutiye, Pilar Rodríguez, Markku Oivo",
+    "year": 2021,
+    "abstract_url": "https://arxiv.org/abs/2110.01921v1",
+    "pdf_url": "https://arxiv.org/pdf/2110.01921v1.pdf",
+    "resumen": "Context-Agile software development (ASD) promotes minimal documentation and often prioritizes functional requirements over quality requirements (QRs). The minimal documentation emphasis may be beneficial in reducing time-to-market for software. However, it can also be a concern, especially with QRs, since they are challenging to specify and documen",
+    "category": "software documentation quality"
+  },
+  {
+    "code": "1205.6363v1",
+    "title": "What Should Developers Be Aware Of? An Empirical Study on the Directives of API Documentation",
+    "authors": "Martin Monperrus, Michael Eichberg, Elif Tekes",
+    "year": 2012,
+    "abstract_url": "https://arxiv.org/abs/1205.6363v1",
+    "pdf_url": "https://arxiv.org/pdf/1205.6363v1.pdf",
+    "resumen": "Application Programming Interfaces (API) are exposed to developers in order to reuse software libraries. API directives are natural-language statements in API documentation that make developers aware of constraints and guidelines related to the usage of an API. This paper presents the design and the results of an empirical study on the directives o",
+    "category": "software usability empirical"
+  },
+  {
+    "code": "1311.3414v1",
+    "title": "Mining Software Repair Models for Reasoning on the Search Space of Automated Program Fixing",
+    "authors": "Matias Martinez, Martin Monperrus",
+    "year": 2013,
+    "abstract_url": "https://arxiv.org/abs/1311.3414v1",
+    "pdf_url": "https://arxiv.org/pdf/1311.3414v1.pdf",
+    "resumen": "This paper is about understanding the nature of bug fixing by analyzing thousands of bug fix transactions of software repositories. It then places this learned knowledge in the context of automated program repair. We give extensive empirical results on the nature of human bug fixes at a large scale and a fine granularity with abstract syntax tree d",
+    "category": "software usability empirical"
+  },
+  {
+    "code": "1507.06882v1",
+    "title": "Contributors Preference in Open Source Software Usability: An Empirical Study",
+    "authors": "Arif Raza, Luiz Fernando Capretz",
+    "year": 2015,
+    "abstract_url": "https://arxiv.org/abs/1507.06882v1",
+    "pdf_url": "https://arxiv.org/pdf/1507.06882v1.pdf",
+    "resumen": "The fact that the number of users of open source software (OSS) is practically un-limited and that ultimately the software quality is determined by end users experience, makes the usability an even more critical quality attribute than it is for proprietary software. With the sharp increase in use of open source projects by both individuals and orga",
+    "category": "software usability empirical"
+  },
+  {
+    "code": "2501.07195v1",
+    "title": "Teaching Empirical Research Methods in Software Engineering: An Editorial Introduction",
+    "authors": "Daniel Mendez, Paris Avgeriou, Marcos Kalinowski",
+    "year": 2025,
+    "abstract_url": "https://arxiv.org/abs/2501.07195v1",
+    "pdf_url": "https://arxiv.org/pdf/2501.07195v1.pdf",
+    "resumen": "Empirical Software Engineering has received much attention in recent years and became a de-facto standard for scientific practice in Software Engineering. However, while extensive guidelines are nowadays available for designing, conducting, reporting, and reviewing empirical studies, similar attention has not yet been paid to teaching empirical sof",
+    "category": "software usability empirical"
+  },
+  {
+    "code": "2503.11291v1",
+    "title": "Designing a Syllabus for a Course on Empirical Software Engineering",
+    "authors": "Paris Avgeriou, Nauman bin Ali, Marcos Kalinowski",
+    "year": 2025,
+    "abstract_url": "https://arxiv.org/abs/2503.11291v1",
+    "pdf_url": "https://arxiv.org/pdf/2503.11291v1.pdf",
+    "resumen": "Increasingly, courses on Empirical Software Engineering research methods are being offered in higher education institutes across the world, mostly at the M.Sc. and Ph.D. levels. While the need for such courses is evident and in line with modern software engineering curricula, educators designing and implementing such courses have so far been reinve",
+    "category": "software usability empirical"
+  },
+  {
+    "code": "2504.07310v1",
+    "title": "Dependency Update Adoption Patterns in the Maven Software Ecosystem",
+    "authors": "Baltasar Berretta, Augustus Thomas, Heather Guarnera",
+    "year": 2025,
+    "abstract_url": "https://arxiv.org/abs/2504.07310v1",
+    "pdf_url": "https://arxiv.org/pdf/2504.07310v1.pdf",
+    "resumen": "Regular dependency updates protect dependent software components from upstream bugs, security vulnerabilities, and poor code quality. Measures of dependency updates across software ecosystems involve two key dimensions: the time span during which a release is being newly adopted (adoption lifespan) and the extent of adoption across the ecosystem (a",
+    "category": "open source software adoption cost"
+  },
+  {
+    "code": "1508.00034v1",
+    "title": "An Intelligent Approach to Software Cost Prediction",
+    "authors": "Xishi Huang, Luiz Fernando Capretz, Danny Ho",
+    "year": 2015,
+    "abstract_url": "https://arxiv.org/abs/1508.00034v1",
+    "pdf_url": "https://arxiv.org/pdf/1508.00034v1.pdf",
+    "resumen": "Good software cost prediction is important for effective project management such as budgeting, project planning and control. In this paper, we present an intelligent approach to software cost prediction. By integrating the neuro-fuzzy technique with the well-accepted COCOMO model, our approach can make the best use of both expert knowledge and hist",
+    "category": "open source software adoption cost"
+  }
+]

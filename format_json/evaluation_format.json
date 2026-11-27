@@ -1,0 +1,111 @@
+{
+    "id": 1,
+    "name": "Evaluación 1",
+    "software": {
+        "id": 1,
+        "name": "Software A"
+    },
+    "organization": {
+        "id": 1,
+        "name": "Organization ABC"
+    },
+    "evaluator": {
+        "id": 1,
+        "username": "usera",
+        "first_name": "Juanito",
+        "last_name": "Perez"
+    },
+    "start_date": "2022-01-01",
+    "end_date": "2022-12-31",
+    "state": "COM",
+    "results": [
+        {
+            "id": 1,
+            "factor": {
+                "id": 1,
+                "name": "Factor 1"
+            },
+            "average_weighting": 3.5,
+            "swot_classification": "F"
+        },
+        {
+            "id": 2,
+            "factor": {
+                "id": 2,
+                "name": "Factor 2"
+            },
+            "average_weighting": 3.4,
+            "swot_classification": "O"
+        }
+    ],
+    "factor_assessment": [
+        {
+            "id": 1,
+            "decision_maker": {
+                "id": 3,
+                "label": "Importante",
+                "value": 3
+            },
+            "relative_importance": {
+                "id": 2,
+                "label": "Opcional",
+                "value": 2
+            },
+            "factor": {
+                "id": 1,
+                "name": "Factor 1"
+            },
+            "scope": {
+                "id": 1,
+                "name": "Interno"
+            }
+        },
+        {
+            "id": 2,
+            "decision_maker": {
+                "id": 3,
+                "label": "Importante",
+                "value": 3
+            },
+            "relative_importance": {
+                "id": 2,
+                "label": "Opcional",
+                "value": 2
+            },
+            "factor": {
+                "id": 2,
+                "name": "Factor 2"
+            },
+            "scope": {
+                "id": 2,
+                "name": "Externo"
+            }
+        }
+    ],
+    "subfactor_assessment": [
+        {
+            "id": 1,
+            "scale": {
+                "id": 2,
+                "label": "Cumple parcialmente",
+                "value": 2
+            },
+            "factor": {
+                "id": 1,
+                "name": "Subfactor 1"
+            }
+        },
+        {
+            "id": 1,
+            "scale": {
+                "id": 4,
+                "label": "Cumple totalmente",
+                "value": 4
+            },
+            "factor": {
+                "id": 2,
+                "name": "Subfactor 2"
+            }
+        }
+    ]
+}
